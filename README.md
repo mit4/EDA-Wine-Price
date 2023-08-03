@@ -9,3 +9,7 @@ It targets an entire cross-section of customers through Hypermarkets.
 To provide the best price to its customers The Indian Wine Co. wants to analyze and optimize the cost of each product for each purchase
 We have data of wine sold with price, points received for wine. 
 
+**Goal**
+
+Our objective will be to analyse the dataset and give optimized business insights.
+We are supposed to deliver the report to the stakeholders so that they can dervie good business decisions and gain profit in the market.

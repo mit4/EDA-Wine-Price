@@ -42,5 +42,9 @@ The data was successfully studied and hence, the insights were marked down in or
 * England has the highest number of price.
 * England has the highest number of points.
 
-## Action insights
-
+## Actionable insights
+* Cuyo can be a very good target spot depending upon the data and it can be targetted as the prime production units.
+* This how the company will save huge cost in production and maintaience.
+* Eventually this will lead them to a good amount of profit.
+* Cabernet Shiraz has the highest amount of demand in the marketspace.
+* hence, the production for this winery is a must. The company should multiply the production for this winery based upon best resources and thus is expected to gain tremendous amount of profit.

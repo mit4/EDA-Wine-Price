@@ -9,12 +9,12 @@ It targets an entire cross-section of customers through Hypermarkets.
 To provide the best price to its customers The Indian Wine Co. wants to analyze and optimize the cost of each product for each purchase
 We have data of wine sold with price, points received for wine. 
 
-## Goal
+### Goal
 
 Our objective will be to analyse the dataset and give optimized business insights.
 We are supposed to deliver the report to the stakeholders so that they can dervie good business decisions and gain profit in the market.
 
-## Description of the Dataset
+### Description of the Dataset
 We have 120744 training samples and for each of sample 11 different properties are recorded.
 <details>
 <summary>Column Description</summary>
@@ -32,3 +32,15 @@ We have 120744 training samples and for each of sample 11 different properties a
 |winery |The winery that made the wine|
 |price |The price of the winery|
 </details>
+
+## Conclusions
+The data was successfully studied and hence, the insights were marked down in order to make proper business decisions.
+* Cuyo has the least number of records with region_1.
+* Montrachet has the highest number of records with all the designations.
+* Cabernet Shiraz has the highest number of records with all the varieties.
+* Clos du Mesnil has the highest price amongst all the designations.
+* England has the highest number of price.
+* England has the highest number of points.
+
+## Action insights
+

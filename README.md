@@ -17,19 +17,18 @@ We are supposed to deliver the report to the stakeholders so that they can dervi
 ## Description of the Dataset
 We have 120744 training samples and for each of sample 11 different properties are recorded.
 <details>
-<summary>Column Name	Description</summary>
-|Number|column|
+<summary>Column Description</summary>
+|Column Name|Description|
 |-----:|---------------|
-|1|Id |
-|2|Unique ID country |
-|3|country name at which the wine is produced description |
-|4|The Description of the wine designation |
-|5|designation / label of the wine points |
-|6|points acquired by the wine province |
-|7|at which zone does this wine belongs to region_1 |
-|8|The wine growing area in a province or state region_2 |
-|9|Sometimes there are more specific regions specified within a wine growing area but this value can sometimes be blank variety |
-|10|The type of grapes used to make the wine winery |
-|11|The winery that made the wine price |
-|12|The price of the winery|
-</Details>
+|Id |Unique ID |
+|country | country name at which the wine is produced |
+|description |The Description of the wine|
+|designation |designation / label of the wine|
+|points |points acquired by the wine|
+|province |at which zone does this wine belongs to |
+|region_1 |The wine growing area in a province or state |
+|region_2 |Sometimes there are more specific regions specified within a wine growing area but this value can sometimes be blank|
+|variety |The type of grapes used to make the wine |
+|winery |The winery that made the wine|
+|price |The price of the winery|
+</details>
